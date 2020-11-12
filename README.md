@@ -5,9 +5,11 @@ A decentralised check-in system for meetings and events
 <div align="center">
   <img width="180" height="180" src="https://github.com/notifyme-app/notifyme-app-android/raw/develop/app/src/main/app_icon-playstore.png" />
   <br />
-[Download Android App](https://install.appcenter.ms/orgs/notify-me/apps/notifyme-app-android/distribution_groups/public)
   <br />
-[Download iOS App](https://testflight.apple.com/join/OqONONgv)
+  <a href="https://install.appcenter.ms/orgs/notify-me/apps/notifyme-app-android/distribution_groups/public">Download Android App</a>
+  <br />
+  <br />
+  <a href="https://testflight.apple.com/join/OqONONgv">Download iOS App</a>
 </div>
 
 ## Introduction
