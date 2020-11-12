@@ -1,8 +1,7 @@
-# NotifyMe
-A decentralised check-in system for meetings and events
-
+<h1 align="center">NotifyMe</h1>
+<h4 align="center">A decentralised check-in system for meetings and events</h4>
 <br />
-<div align="left">
+<div align="center">
   <img width="180" height="180" src="https://github.com/notifyme-app/notifyme-app-android/raw/develop/app/src/main/app_icon-playstore.png" />
   <br />
   <br />
