@@ -2,7 +2,7 @@
 A decentralised check-in system for meetings and events
 
 <br />
-<div align="center">
+<div align="left">
   <img width="180" height="180" src="https://github.com/notifyme-app/notifyme-app-android/raw/develop/app/src/main/app_icon-playstore.png" />
   <br />
   <br />
