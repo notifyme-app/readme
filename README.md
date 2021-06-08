@@ -5,10 +5,10 @@
   <img width="180" height="180" src="https://github.com/notifyme-app/notifyme-app-android/raw/develop/app/src/main/app_icon-playstore.png" />
   <br />
   <br />
-  <a href="https://install.appcenter.ms/orgs/notify-me/apps/notifyme-app-android/distribution_groups/public">Download Android App</a>
+  <a href="https://play.google.com/store/apps/details?id=ch.ubique.notifyme">Download Android App</a>
   <br />
   <br />
-  <a href="https://testflight.apple.com/join/OqONONgv">Download iOS App</a>
+  <a href="https://apps.apple.com/app/id1537859001">Download iOS App</a>
 </div>
 
 ## Introduction
@@ -16,7 +16,7 @@
 The app is a decentralised check-in system for meetings and events. Users can check in to a venue by scanning a QR Code. The check in is stored locally and encrypted. In case one of the visitors tests positive subsequent to a gathering, all other participants can be easily informed via the app. The app uses the [CrowdNotifier SDK](https://github.com/CrowdNotifier/crowdnotifier-sdk-android) based on the [CrowdNotifier White Paper](https://github.com/CrowdNotifier/documents) by Wouter Lueks (EPFL) et al. The app design, UX and implementation was done by [Ubique](https://ubique.ch/). More information can be found [here](https://notify-me.ch).
 
 ## Try it now!
-1. Install the Android or iOS app. [Download Android App](https://install.appcenter.ms/orgs/notify-me/apps/notifyme-app-android/distribution_groups/public) [Download iOS App](https://testflight.apple.com/join/OqONONgv)
+1. Install the Android or iOS app. [Download Android App](https://play.google.com/store/apps/details?id=ch.ubique.notifyme) [Download iOS App](https://apps.apple.com/app/id1537859001)
 2. Go to the [QR code generator page](https://qr-gen.notify-me.ch/) and create your own Entry and Trace QR codes.
 3. Scan the QREntry with the app to check-in to your venue.
 4. Check out in the app after some time.
